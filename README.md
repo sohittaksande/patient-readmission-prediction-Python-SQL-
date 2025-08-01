@@ -36,12 +36,12 @@ The goal is to help hospitals identify **high-risk patients** and reduce prevent
 
 ### 3. Exploratory Data Analysis  
 - Visualized **class imbalance**
-- ![Class Imbalance](Figure_1.png)
+- ![Class Imbalance]("C:\Users\HP\Downloads\Figure_1.png")
 
 ### 4. Feature Engineering  
 - One-hot encoded categorical features (age groups)  
 - Standardized numerical variables
-- ![Feature Importance](Figure_2.png)
+- ![Feature Importance]("C:\Users\HP\Downloads\Figure_2.png")
 
 
 ### 5. Modeling  
