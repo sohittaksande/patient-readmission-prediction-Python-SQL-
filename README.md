@@ -35,11 +35,14 @@ The goal is to help hospitals identify **high-risk patients** and reduce prevent
 - Converted target (`readmitted`) into binary classification (0/1)  
 
 ### 3. Exploratory Data Analysis  
-- Visualized **class imbalance**  
+- Visualized **class imbalance**
+- ![Class Imbalance](Figure_1.png)
 
 ### 4. Feature Engineering  
 - One-hot encoded categorical features (age groups)  
-- Standardized numerical variables  
+- Standardized numerical variables
+- ![Feature Importance](Figure_2.png)
+
 
 ### 5. Modeling  
 - Logistic Regression with **class balancing**  
